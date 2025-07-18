@@ -20,7 +20,7 @@ Also considers the Scope, i.e., whether the vulnerability affects other componen
 
 The Base score alone is often used for public severity rankings and vulnerability catalogs like NIST’s database.
 
-Temporal Metrics (optional):
+-Temporal Metrics (optional):
 
 Reflects attributes of a vulnerability that can change over time, such as the availability of patches or the maturity of exploit code.
 
@@ -28,7 +28,7 @@ Includes Exploit Code Maturity, Remediation Level, and Report Confidence.
 
 Modifies the Base score to provide a Temporal score indicating current exploitability and risk.
 
-Environmental Metrics (optional):
+ -Environmental Metrics (optional):
 
 Allows organizations to adjust the score based on their specific environment, reflecting the business criticality, presence of mitigating controls, and asset use.
 
